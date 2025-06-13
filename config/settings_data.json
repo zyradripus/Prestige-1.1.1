@@ -86,7 +86,7 @@
         "type": "sidebar-menu",
         "settings": {
           "primary_menu": "main-menu",
-          "secondary_menu": "",
+          "secondary_menu": "secondary-menu",
           "show_social_media": true
         }
       },
