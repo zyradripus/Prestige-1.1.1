@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
     "heading_color": "#232222",
@@ -66,7 +66,7 @@
     "social_linkedin": "",
     "social_snapchat": "",
     "social_fancy": "",
-    "favicon": "",
+    "favicon": "shopify://shop_images/zyra-drip-website-favicon_jpg.png",
     "checkout_header_image": "shopify://shop_images/Webp.net-gifmaker_5_122ded2b-dfca-4008-8bef-1d0e03a9e81c.gif",
     "checkout_logo_image": "",
     "checkout_logo_position": "right",
@@ -105,7 +105,8 @@
         "type": "header",
         "settings": {
           "use_sticky_header": true,
-          "logo_max_width": 180,
+          "logo": "shopify://shop_images/website-logo.png",
+          "logo_max_width": 100,
           "navigation_menu": "main-menu",
           "navigation_style": "center",
           "enable_transparent_header": true,
