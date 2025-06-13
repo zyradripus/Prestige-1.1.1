@@ -122,13 +122,14 @@
             "type": "mega_menu",
             "settings": {
               "navigation_mega_menu": "MEN",
-              "push_1_image": "shopify://shop_images/file_3a8c4e2f-5758-4ca6-92dd-be96bd538c41.jpg",
-              "push_1_heading": "Example heading",
-              "push_1_subheading": "Example sub-heading",
-              "push_1_url": "",
-              "push_2_heading": "Example heading",
-              "push_2_subheading": "Example sub-heading",
-              "push_2_url": ""
+              "push_1_image": "shopify://shop_images/mens-hoodies-banner.jpg",
+              "push_1_heading": "",
+              "push_1_subheading": "",
+              "push_1_url": "shopify://collections/mens-hoodies-sweatshirts",
+              "push_2_image": "shopify://shop_images/mens-tshirts-banner.jpg",
+              "push_2_heading": "",
+              "push_2_subheading": "",
+              "push_2_url": "shopify://collections/mens-t-shirt"
             }
           },
           "mega_menu_TLMJzF": {
