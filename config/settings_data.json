@@ -136,12 +136,13 @@
             "type": "mega_menu",
             "settings": {
               "navigation_mega_menu": "Accessories",
-              "push_1_image": "shopify://shop_images/women-black-cap-t-shirt.jpg",
-              "push_1_heading": "Example heading",
-              "push_1_subheading": "Example sub-heading",
-              "push_1_url": "",
-              "push_2_heading": "Example heading",
-              "push_2_subheading": "Example sub-heading",
+              "push_1_image": "shopify://shop_images/mens-caps-banner_ad99f02c-695c-4c95-a0c0-d5f67a6f2049.jpg",
+              "push_1_heading": "",
+              "push_1_subheading": "",
+              "push_1_url": "shopify://collections/mens-accessories",
+              "push_2_image": "shopify://shop_images/tote-bags-banner_e30f1f55-645b-40e5-af43-7f99c05cd335.jpg",
+              "push_2_heading": "",
+              "push_2_subheading": "",
               "push_2_url": ""
             }
           },
