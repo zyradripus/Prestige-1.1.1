@@ -107,7 +107,7 @@
           "mega_menu_8tCpdP": {
             "type": "mega_menu",
             "settings": {
-              "navigation_mega_menu": "T-Shirts & Tanks",
+              "navigation_mega_menu": "T-shirt",
               "push_1_image": "shopify://shop_images/rn-image_picker_lib_temp_b5ec1153-ea68-431c-8243-75aba3c376a8.png",
               "push_1_heading": "Example heading",
               "push_1_subheading": "Example sub-heading",
@@ -222,7 +222,6 @@
         "type": "collection-footer",
         "settings": {
           "show_section": false,
-          "image": "",
           "text_color": "#ffffff",
           "apply_overlay": true,
           "title": "Our story",
