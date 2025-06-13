@@ -103,6 +103,23 @@
       },
       "header": {
         "type": "header",
+        "blocks": {
+          "mega_menu_8tCpdP": {
+            "type": "mega_menu",
+            "settings": {
+              "navigation_mega_menu": "",
+              "push_1_heading": "Example heading",
+              "push_1_subheading": "Example sub-heading",
+              "push_1_url": "",
+              "push_2_heading": "Example heading",
+              "push_2_subheading": "Example sub-heading",
+              "push_2_url": ""
+            }
+          }
+        },
+        "block_order": [
+          "mega_menu_8tCpdP"
+        ],
         "settings": {
           "use_sticky_header": true,
           "logo": "shopify://shop_images/website-logo-black.png",
