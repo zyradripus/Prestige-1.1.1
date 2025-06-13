@@ -286,7 +286,7 @@
           "show_section": true,
           "title": "Related Products",
           "show_product_info": true,
-          "show_color_swatch": false
+          "show_color_swatch": true
         }
       },
       "popup": {
