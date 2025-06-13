@@ -225,11 +225,11 @@
         "type": "collection-template",
         "settings": {
           "show_collection_info": true,
-          "show_collection_image": false,
+          "show_collection_image": true,
           "show_color_swatch": true,
           "collection_image_size": "large",
           "show_sort_by": true,
-          "show_layout_switch": false,
+          "show_layout_switch": true,
           "toolbar_position": "bottom",
           "filter_position": "sidebar",
           "filter_mode": "tag",
