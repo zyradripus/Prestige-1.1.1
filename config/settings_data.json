@@ -145,26 +145,12 @@
               "push_2_subheading": "",
               "push_2_url": ""
             }
-          },
-          "mega_menu_6Urn6p": {
-            "type": "mega_menu",
-            "settings": {
-              "navigation_mega_menu": "Customized Clothing",
-              "push_1_image": "shopify://shop_images/lifters-club-chest-day-funny-fitness-tshirt_webp.webp",
-              "push_1_heading": "Example heading",
-              "push_1_subheading": "Example sub-heading",
-              "push_1_url": "",
-              "push_2_heading": "Example heading",
-              "push_2_subheading": "Example sub-heading",
-              "push_2_url": ""
-            }
           }
         },
         "block_order": [
           "mega_menu_FkD3KH",
           "mega_menu_8yFdJN",
-          "mega_menu_TLMJzF",
-          "mega_menu_6Urn6p"
+          "mega_menu_TLMJzF"
         ],
         "settings": {
           "use_sticky_header": true,
