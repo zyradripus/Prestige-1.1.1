@@ -232,7 +232,7 @@
           "show_layout_switch": true,
           "toolbar_position": "bottom",
           "filter_position": "sidebar",
-          "filter_mode": "tag",
+          "filter_mode": "group",
           "show_filter_color_swatch": true,
           "filter_menu": "",
           "grid_items_per_page": 16,
