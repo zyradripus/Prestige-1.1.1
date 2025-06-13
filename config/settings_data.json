@@ -108,6 +108,7 @@
             "type": "mega_menu",
             "settings": {
               "navigation_mega_menu": "",
+              "push_1_image": "shopify://shop_images/rn-image_picker_lib_temp_b5ec1153-ea68-431c-8243-75aba3c376a8.png",
               "push_1_heading": "Example heading",
               "push_1_subheading": "Example sub-heading",
               "push_1_url": "",
@@ -164,6 +165,8 @@
           "slide-1": {
             "type": "image",
             "settings": {
+              "image": "shopify://shop_images/website-banner.webp",
+              "mobile_image": "shopify://shop_images/website-banner-mobile.webp",
               "apply_overlay": false,
               "content_position": "middleLeft",
               "subheading": "",
