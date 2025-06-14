@@ -35,7 +35,7 @@
     "uppercase_heading": false,
     "text_font": "century_gothic_n4",
     "base_text_font_size": 15,
-    "currency_conversion_enabled": false,
+    "currency_conversion_enabled": true,
     "currency_conversion_round_amounts": true,
     "currency_conversion_supported_currencies": "USD CAD EUR GBP",
     "currency_conversion_money_format": "money_format",
