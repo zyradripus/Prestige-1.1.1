@@ -427,19 +427,19 @@
           "collection_eQwAkF": {
             "type": "collection",
             "settings": {
-              "collection": "badkamerspiegels",
-              "title": "",
-              "grid_items_count": 8,
-              "button_text": "View all products"
+              "collection": "baby-tees",
+              "title": "WOMEN",
+              "grid_items_count": 4,
+              "button_text": "ALL WOMEN'S BABY TEES"
             }
           },
           "collection_MgEtpz": {
             "type": "collection",
             "settings": {
-              "collection": "hollywood-spiegels",
-              "title": "",
-              "grid_items_count": 8,
-              "button_text": "View all products"
+              "collection": "mens-t-shirt",
+              "title": "MEN",
+              "grid_items_count": 4,
+              "button_text": "ALL MEN'S T-SHIRTS"
             }
           }
         },
@@ -448,24 +448,24 @@
           "collection_MgEtpz"
         ],
         "settings": {
-          "title": "Featured collection",
-          "layout_mode": "grid",
+          "title": "OUR BEST SELLERS",
+          "layout_mode": "carousel",
           "show_product_info": true,
           "show_color_swatch": false,
-          "grid_mobile_items_per_row": "2",
+          "grid_mobile_items_per_row": "1",
           "grid_desktop_items_per_row": 4
         }
       }
     },
     "content_for_index": [
       "slideshow",
+      "featured_collections_MFKdQR",
       "1595363175996",
       "1595364523818",
       "1595363281802",
       "1602617742633",
       "1602617331938",
-      "1596220234038",
-      "featured_collections_MFKdQR"
+      "1596220234038"
     ]
   },
   "presets": {
