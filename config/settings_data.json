@@ -211,9 +211,9 @@
           "image_YeFMxj": {
             "type": "image",
             "settings": {
-              "image": "shopify://shop_images/yoga-wear-banner-mobile.webp",
+              "image": "shopify://shop_images/yoga-banner.jpg",
               "mobile_image": "shopify://shop_images/yoga-wear-banner-mobile.webp",
-              "apply_overlay": false,
+              "apply_overlay": true,
               "content_position": "bottomLeft",
               "subheading": "Slide title",
               "title": "Tell your story",
@@ -240,6 +240,7 @@
           "image_HY67Cx": {
             "type": "image",
             "settings": {
+              "image": "shopify://shop_images/yoga-banner.jpg",
               "mobile_image": "shopify://shop_images/video-banner-oversized-tees.gif",
               "apply_overlay": true,
               "content_position": "bottomLeft",
