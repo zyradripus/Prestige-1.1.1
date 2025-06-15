@@ -511,7 +511,7 @@
             "type": "collection",
             "settings": {
               "collection": "beauty",
-              "title": "",
+              "title": "SIMPLE. CLEAN. EFFECTIVE SKINCARE BY ZYRA DRIP.",
               "grid_items_count": 4,
               "button_text": "View all products"
             }
@@ -522,7 +522,7 @@
         ],
         "name": "Featured collections",
         "settings": {
-          "title": "Featured collection",
+          "title": "GLOW STARTS HERE",
           "layout_mode": "carousel",
           "show_product_info": false,
           "show_color_swatch": false,
