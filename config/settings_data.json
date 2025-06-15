@@ -504,47 +504,43 @@
           "grid_desktop_items_per_row": 4
         }
       },
-      "slideshow_qFrnpU": {
-        "type": "slideshow",
+      "featured_collections_QjVBdW": {
+        "type": "featured-collections",
         "blocks": {
-          "image_8aErNB": {
-            "type": "image",
+          "collection_QCqgQH": {
+            "type": "collection",
             "settings": {
-              "mobile_image": "shopify://shop_images/vitamin-boost-serum-banner_48409aed-5f83-49e9-aa3b-a4b05a333bf4.jpg",
-              "apply_overlay": true,
-              "content_position": "bottomLeft",
-              "subheading": "",
+              "collection": "beauty",
               "title": "",
-              "button_1_text": "",
-              "button_1_link": "",
-              "button_2_text": "",
-              "button_2_link": ""
+              "grid_items_count": 4,
+              "button_text": "View all products"
             }
           }
         },
         "block_order": [
-          "image_8aErNB"
+          "collection_QCqgQH"
         ],
+        "name": "Featured collections",
         "settings": {
-          "show_fullscreen": true,
-          "show_arrow": true,
-          "autoplay": true,
-          "cycle_speed": 3,
-          "text_color": "#ffffff",
-          "button_color": "#363636"
+          "title": "Featured collection",
+          "layout_mode": "carousel",
+          "show_product_info": false,
+          "show_color_swatch": false,
+          "grid_mobile_items_per_row": "2",
+          "grid_desktop_items_per_row": 4
         }
       }
     },
     "content_for_index": [
       "slideshow",
-      "slideshow_qFrnpU",
       "featured_collections_MFKdQR",
       "1595363175996",
       "1595364523818",
       "1595363281802",
       "1602617742633",
       "1602617331938",
-      "1596220234038"
+      "1596220234038",
+      "featured_collections_QjVBdW"
     ]
   },
   "presets": {
