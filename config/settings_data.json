@@ -507,21 +507,6 @@
       "slideshow_qFrnpU": {
         "type": "slideshow",
         "blocks": {
-          "image_8mw6ga": {
-            "type": "image",
-            "settings": {
-              "image": "shopify://shop_images/website-banner.webp",
-              "mobile_image": "shopify://shop_images/vitamin-boost-serum-banner.webp",
-              "apply_overlay": false,
-              "content_position": "middleLeft",
-              "subheading": "",
-              "title": "",
-              "button_1_text": "",
-              "button_1_link": "",
-              "button_2_text": "",
-              "button_2_link": ""
-            }
-          },
           "image_TWBrN9": {
             "type": "image",
             "settings": {
@@ -539,7 +524,6 @@
           }
         },
         "block_order": [
-          "image_8mw6ga",
           "image_TWBrN9"
         ],
         "settings": {
