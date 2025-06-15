@@ -507,11 +507,10 @@
       "slideshow_qFrnpU": {
         "type": "slideshow",
         "blocks": {
-          "image_TWBrN9": {
+          "image_8aErNB": {
             "type": "image",
             "settings": {
-              "image": "shopify://shop_images/vitamin-boost-serum-banner.jpg",
-              "mobile_image": "shopify://shop_images/vitamin-boost-serum-banner.jpg",
+              "mobile_image": "shopify://shop_images/vitamin-boost-serum-banner_6e75cc29-543f-4613-9f3a-117c2ca1db08.jpg",
               "apply_overlay": false,
               "content_position": "bottomLeft",
               "subheading": "",
@@ -524,7 +523,7 @@
           }
         },
         "block_order": [
-          "image_TWBrN9"
+          "image_8aErNB"
         ],
         "settings": {
           "show_fullscreen": true,
