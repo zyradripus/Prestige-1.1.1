@@ -354,10 +354,11 @@
         "type": "text-with-image",
         "settings": {
           "subheading": "",
-          "title": "Breathing Fresh & Clean Air",
+          "title": "GLOW STARTS HERE",
+          "image": "shopify://shop_images/Gentle-Face-and-Body-Cleanser--Right.webp",
           "image_position": "right",
-          "content": "<p><em>Dry and very humid air can affect health and the condition of home. When air is too humid, it can encourage&nbsp;mold and mildew&nbsp;growth and contribute to health issues.</em></p>",
-          "link_text": "SHOP Clear Aromifier",
+          "content": "<p>SIMPLE. CLEAN. EFFECTIVE SKINCARE BY ZYRA DRIP.</p>",
+          "link_text": "START YOUR ROUTINE",
           "link_url": "shopify://products/cool-mist-humidifer-essential-oil-diffuser-best-portable-humidifer-air-humidifier-essential-oil-aromatherapy-diffuser"
         }
       },
@@ -464,7 +465,7 @@
           "subheading": "Aromifier",
           "title": "Clear Aromifier",
           "image_position": "left",
-          "content": "<p>Breathe easier and add style to your home with our very first original Clear Aromifier. Lightweight, portable, and ready to relieve your nose of any congestion!&nbsp;</p>",
+          "content": "<p>Breathe easier and add style to your home with our very first original Clear Aromifier. Lightweight, portable, and ready to relieve your nose of any congestion! </p>",
           "link_text": "Click Here To Learn More",
           "link_url": "shopify://products/cool-mist-humidifer-essential-oil-diffuser-best-portable-humidifer-air-humidifier-essential-oil-aromatherapy-diffuser"
         }
@@ -503,38 +504,11 @@
           "grid_mobile_items_per_row": "1",
           "grid_desktop_items_per_row": 4
         }
-      },
-      "featured_collections_QjVBdW": {
-        "type": "featured-collections",
-        "blocks": {
-          "collection_QCqgQH": {
-            "type": "collection",
-            "settings": {
-              "collection": "beauty",
-              "title": "SIMPLE. CLEAN. EFFECTIVE SKINCARE BY ZYRA DRIP.",
-              "grid_items_count": 4,
-              "button_text": "START YOUR ROUTINE"
-            }
-          }
-        },
-        "block_order": [
-          "collection_QCqgQH"
-        ],
-        "name": "Featured collections",
-        "settings": {
-          "title": "GLOW STARTS HERE",
-          "layout_mode": "carousel",
-          "show_product_info": false,
-          "show_color_swatch": false,
-          "grid_mobile_items_per_row": "2",
-          "grid_desktop_items_per_row": 4
-        }
       }
     },
     "content_for_index": [
       "slideshow",
       "featured_collections_MFKdQR",
-      "featured_collections_QjVBdW",
       "1595363175996",
       "1595364523818",
       "1595363281802",
