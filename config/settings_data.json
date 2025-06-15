@@ -362,112 +362,11 @@
           "link_url": "shopify://collections/beauty"
         }
       },
-      "1595363281802": {
-        "type": "featured-video",
-        "settings": {
-          "section_size": "small",
-          "text_color": "#ffffff",
-          "subheading": "",
-          "title": "",
-          "video_url": "https://vimeo.com/440134493"
-        }
-      },
-      "1595364523818": {
-        "type": "shop-the-look",
-        "blocks": {
-          "1595364550563": {
-            "type": "look",
-            "settings": {
-              "dot_style": "light",
-              "product_1": "cool-mist-humidifer-essential-oil-diffuser-best-portable-humidifer-1",
-              "product_1_horizontal_position": 15,
-              "product_1_vertical_position": 35,
-              "product_2": "cool-mist-humidifer-essential-oil-diffuser-best-portable-humidifer-air-humidifier-essential-oil-aromatherapy-diffuser",
-              "product_2_horizontal_position": 81,
-              "product_2_vertical_position": 50,
-              "product_3": "",
-              "product_3_horizontal_position": 85,
-              "product_3_vertical_position": 85
-            }
-          }
-        },
-        "block_order": [
-          "1595364550563"
-        ],
-        "settings": {
-          "subheading": "",
-          "title": "Our Humidifiers:",
-          "show_mobile_product_info": true
-        }
-      },
-      "1596220234038": {
-        "type": "testimonials",
-        "blocks": {
-          "1596220234038-0": {
-            "type": "testimonial",
-            "settings": {
-              "quote": "<p>This product has gotten me through allergy season and sets the mood with it's colors. Got 4 of them for the whole family!</p>"
-            }
-          },
-          "1596220234038-1": {
-            "type": "testimonial",
-            "settings": {
-              "quote": "<p>BEST diffuser/humidifer/LED Projector HANDS DOWN. Mood changing lights really help with my sleep too!!</p>"
-            }
-          },
-          "1596220234038-2": {
-            "type": "testimonial",
-            "settings": {
-              "quote": "<p>Had the flu for a few days, bought this and let it run, two days later I could breathe again and had no symptoms... this diffuser is a miracle. I used the peppermint oil to add to it and it made a huge difference.</p>"
-            }
-          },
-          "1596222341500": {
-            "type": "testimonial",
-            "settings": {
-              "quote": "<p>LOVE that Aromifier is BPA Free and friendly towards the environment</p>"
-            }
-          }
-        },
-        "block_order": [
-          "1596220234038-0",
-          "1596220234038-1",
-          "1596220234038-2",
-          "1596222341500"
-        ],
-        "settings": {
-          "autoplay": true,
-          "cycle_speed": 5,
-          "background": "#d5e0ee",
-          "text_color": "#ffffff"
-        }
-      },
       "cart-template": {
         "type": "cart-template",
         "settings": {
           "show_shipping_estimator": true,
           "shipping_estimator_default_country": "United States"
-        }
-      },
-      "1602617331938": {
-        "type": "text-with-image",
-        "settings": {
-          "subheading": "Aromifier",
-          "title": "Aromifier Pro V2 2020",
-          "image_position": "right",
-          "content": "<p>Our design team made sure to integrate much requested essential oil tray and took our original 360 hinge design to the next level. Now the Aromifier Pro V2 2020 rotates both vertically and horizontally. There's also an automatic setting so that you get to experience the beginning of what next-gen humidifying experience really feels like.&nbsp;</p>",
-          "link_text": "Click Here To Learn More",
-          "link_url": "shopify://products/aromifier-pro-2020-v2"
-        }
-      },
-      "1602617742633": {
-        "type": "text-with-image",
-        "settings": {
-          "subheading": "Aromifier",
-          "title": "Clear Aromifier",
-          "image_position": "left",
-          "content": "<p>Breathe easier and add style to your home with our very first original Clear Aromifier. Lightweight, portable, and ready to relieve your nose of any congestion! </p>",
-          "link_text": "Click Here To Learn More",
-          "link_url": "shopify://products/cool-mist-humidifer-essential-oil-diffuser-best-portable-humidifer-air-humidifier-essential-oil-aromatherapy-diffuser"
         }
       },
       "featured_collections_MFKdQR": {
@@ -509,12 +408,7 @@
     "content_for_index": [
       "slideshow",
       "featured_collections_MFKdQR",
-      "1595363175996",
-      "1595364523818",
-      "1595363281802",
-      "1602617742633",
-      "1602617331938",
-      "1596220234038"
+      "1595363175996"
     ]
   },
   "presets": {
