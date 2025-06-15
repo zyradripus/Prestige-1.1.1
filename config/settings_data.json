@@ -196,8 +196,8 @@
           "slide-1": {
             "type": "image",
             "settings": {
-              "image": "shopify://shop_images/website-banner.webp",
-              "mobile_image": "shopify://shop_images/website-banner-mobile.webp",
+              "image": "shopify://shop_images/banner-desktop.jpg",
+              "mobile_image": "shopify://shop_images/banner-mobile.jpg",
               "apply_overlay": false,
               "content_position": "middleLeft",
               "subheading": "",
