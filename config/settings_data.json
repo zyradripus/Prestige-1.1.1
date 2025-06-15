@@ -197,7 +197,7 @@
             "type": "image",
             "settings": {
               "image": "shopify://shop_images/website-banner.webp",
-              "mobile_image": "shopify://shop_images/website-banner.gif",
+              "mobile_image": "shopify://shop_images/website-video-banner.gif",
               "apply_overlay": false,
               "content_position": "middleLeft",
               "subheading": "",
