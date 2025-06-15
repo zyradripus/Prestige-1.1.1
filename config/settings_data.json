@@ -193,21 +193,6 @@
       "slideshow": {
         "type": "slideshow",
         "blocks": {
-          "slide-1": {
-            "type": "image",
-            "settings": {
-              "image": "shopify://shop_images/website-banner.webp",
-              "mobile_image": "shopify://shop_images/banner-mobile.jpg",
-              "apply_overlay": false,
-              "content_position": "middleLeft",
-              "subheading": "",
-              "title": "",
-              "button_1_text": "",
-              "button_1_link": "",
-              "button_2_text": "",
-              "button_2_link": ""
-            }
-          },
           "image_3TC8JB": {
             "type": "image",
             "settings": {
@@ -221,11 +206,26 @@
               "button_2_text": "",
               "button_2_link": ""
             }
+          },
+          "slide-1": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/website-banner.webp",
+              "mobile_image": "shopify://shop_images/yoga-wear-banner-mobile.webp",
+              "apply_overlay": false,
+              "content_position": "middleLeft",
+              "subheading": "",
+              "title": "",
+              "button_1_text": "",
+              "button_1_link": "",
+              "button_2_text": "",
+              "button_2_link": ""
+            }
           }
         },
         "block_order": [
-          "slide-1",
-          "image_3TC8JB"
+          "image_3TC8JB",
+          "slide-1"
         ],
         "settings": {
           "show_fullscreen": false,
