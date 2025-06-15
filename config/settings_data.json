@@ -229,10 +229,10 @@
           "image_YeFMxj"
         ],
         "settings": {
-          "show_fullscreen": false,
+          "show_fullscreen": true,
           "show_arrow": true,
           "autoplay": true,
-          "cycle_speed": 4,
+          "cycle_speed": 3,
           "text_color": "#ffffff",
           "button_color": "#363636"
         }
