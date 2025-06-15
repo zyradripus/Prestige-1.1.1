@@ -355,11 +355,11 @@
         "settings": {
           "subheading": "",
           "title": "GLOW STARTS HERE",
-          "image": "shopify://shop_images/Gentle-Face-and-Body-Cleanser--Right.webp",
+          "image": "shopify://shop_images/Gentle-Face-and-Body-Cleanser-Front.webp",
           "image_position": "right",
           "content": "<p>SIMPLE. CLEAN. EFFECTIVE SKINCARE BY ZYRA DRIP.</p>",
           "link_text": "START YOUR ROUTINE",
-          "link_url": "shopify://products/cool-mist-humidifer-essential-oil-diffuser-best-portable-humidifer-air-humidifier-essential-oil-aromatherapy-diffuser"
+          "link_url": "shopify://collections/beauty"
         }
       },
       "1595363281802": {
