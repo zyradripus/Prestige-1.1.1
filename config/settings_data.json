@@ -197,7 +197,7 @@
             "type": "image",
             "settings": {
               "mobile_image": "shopify://shop_images/website-banner.gif",
-              "apply_overlay": true,
+              "apply_overlay": false,
               "content_position": "bottomLeft",
               "subheading": "Slide title",
               "title": "Tell your story",
