@@ -207,10 +207,25 @@
               "button_2_text": "",
               "button_2_link": ""
             }
+          },
+          "image_3TC8JB": {
+            "type": "image",
+            "settings": {
+              "mobile_image": "shopify://shop_images/website-banner.gif",
+              "apply_overlay": true,
+              "content_position": "bottomLeft",
+              "subheading": "Slide title",
+              "title": "Tell your story",
+              "button_1_text": "",
+              "button_1_link": "",
+              "button_2_text": "",
+              "button_2_link": ""
+            }
           }
         },
         "block_order": [
-          "slide-1"
+          "slide-1",
+          "image_3TC8JB"
         ],
         "settings": {
           "show_fullscreen": false,
