@@ -503,10 +503,42 @@
           "grid_mobile_items_per_row": "1",
           "grid_desktop_items_per_row": 4
         }
+      },
+      "slideshow_qFrnpU": {
+        "type": "slideshow",
+        "blocks": {
+          "image_8mw6ga": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/website-banner.webp",
+              "mobile_image": "shopify://shop_images/vitamin-boost-serum-banner.webp",
+              "apply_overlay": false,
+              "content_position": "middleLeft",
+              "subheading": "",
+              "title": "",
+              "button_1_text": "",
+              "button_1_link": "",
+              "button_2_text": "",
+              "button_2_link": ""
+            }
+          }
+        },
+        "block_order": [
+          "image_8mw6ga"
+        ],
+        "settings": {
+          "show_fullscreen": true,
+          "show_arrow": true,
+          "autoplay": true,
+          "cycle_speed": 3,
+          "text_color": "#ffffff",
+          "button_color": "#363636"
+        }
       }
     },
     "content_for_index": [
       "slideshow",
+      "slideshow_qFrnpU",
       "featured_collections_MFKdQR",
       "1595363175996",
       "1595364523818",
