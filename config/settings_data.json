@@ -226,7 +226,8 @@
           "image_DqcYyd": {
             "type": "image",
             "settings": {
-              "mobile_image": "shopify://shop_images/socks-banner_7e66a26f-3f1c-44bf-bf39-0f510516d8a9.webp",
+              "image": "shopify://shop_images/website-socks-banner.webp",
+              "mobile_image": "shopify://shop_images/socks-banner-1.webp",
               "apply_overlay": true,
               "content_position": "bottomLeft",
               "subheading": "SOCKS",
