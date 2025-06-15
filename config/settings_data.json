@@ -226,14 +226,14 @@
           "image_DqcYyd": {
             "type": "image",
             "settings": {
-              "mobile_image": "shopify://shop_images/socks-banner.webp",
+              "mobile_image": "shopify://shop_images/socks-banner_7e66a26f-3f1c-44bf-bf39-0f510516d8a9.webp",
               "apply_overlay": true,
               "content_position": "bottomLeft",
-              "subheading": "Slide title",
-              "title": "Tell your story",
-              "button_1_text": "",
+              "subheading": "",
+              "title": "",
+              "button_1_text": "MEN",
               "button_1_link": "",
-              "button_2_text": "",
+              "button_2_text": "WOMEN",
               "button_2_link": ""
             }
           }
