@@ -241,7 +241,7 @@
           "image_HY67Cx": {
             "type": "image",
             "settings": {
-              "image": "shopify://shop_images/yoga-banner.jpg",
+              "image": "shopify://shop_images/skincare-banner.webp",
               "mobile_image": "shopify://shop_images/video-banner-oversized-tees.gif",
               "apply_overlay": true,
               "content_position": "bottomLeft",
