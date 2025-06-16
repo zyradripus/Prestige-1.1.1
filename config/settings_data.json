@@ -310,11 +310,11 @@
       "product-template": {
         "type": "product-template",
         "settings": {
-          "show_share_buttons": false,
+          "show_share_buttons": true,
           "show_vendor": false,
           "description_below_add_to_cart": true,
           "show_color_swatch": true,
-          "show_color_carousel": false,
+          "show_color_carousel": true,
           "show_quantity_selector": true,
           "show_inventory_quantity": false,
           "inventory_quantity_threshold": 3,
@@ -350,23 +350,68 @@
           "apparition_delay": 5
         }
       },
-      "1595363175996": {
-        "type": "text-with-image",
-        "settings": {
-          "subheading": "",
-          "title": "GLOW STARTS HERE",
-          "image": "shopify://shop_images/Gentle-Face-and-Body-Cleanser-Front.webp",
-          "image_position": "right",
-          "content": "<p>SIMPLE. CLEAN. EFFECTIVE SKINCARE BY ZYRA DRIP.</p>",
-          "link_text": "START YOUR ROUTINE",
-          "link_url": "shopify://collections/beauty"
-        }
-      },
       "cart-template": {
         "type": "cart-template",
         "settings": {
           "show_shipping_estimator": true,
           "shipping_estimator_default_country": "United States"
+        }
+      },
+      "featured_collections_qxRzBk": {
+        "type": "featured-collections",
+        "blocks": {
+          "collection_6NpdrW": {
+            "type": "collection",
+            "settings": {
+              "collection": "beauty",
+              "title": "PURE. POWERFUL. SKINCARE.",
+              "grid_items_count": 8,
+              "button_text": "View all Beauty products"
+            }
+          }
+        },
+        "block_order": [
+          "collection_6NpdrW"
+        ],
+        "name": "Featured collections",
+        "settings": {
+          "title": "",
+          "layout_mode": "grid",
+          "show_product_info": true,
+          "show_color_swatch": false,
+          "grid_mobile_items_per_row": "2",
+          "grid_desktop_items_per_row": 4
+        }
+      },
+      "slideshow_KHM6xb": {
+        "type": "slideshow",
+        "blocks": {
+          "image_WcbiAp": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/skincare-banner.webp",
+              "apply_overlay": true,
+              "content_position": "bottomLeft",
+              "subheading": "Slide title",
+              "title": "Tell your story",
+              "button_1_text": "",
+              "button_1_link": "",
+              "button_2_text": "",
+              "button_2_link": ""
+            }
+          }
+        },
+        "block_order": [
+          "image_WcbiAp"
+        ],
+        "name": "Slideshow",
+        "settings": {
+          "show_fullscreen": true,
+          "show_arrow": false,
+          "autoplay": true,
+          "cycle_speed": 5,
+          "text_color": "#ffffff",
+          "button_color": "#363636"
         }
       },
       "featured_collections_MFKdQR": {
@@ -403,38 +448,12 @@
           "grid_mobile_items_per_row": "1",
           "grid_desktop_items_per_row": 4
         }
-      },
-      "featured_collections_qxRzBk": {
-        "type": "featured-collections",
-        "blocks": {
-          "collection_6NpdrW": {
-            "type": "collection",
-            "settings": {
-              "collection": "beauty",
-              "title": "PURE. POWERFUL. SKINCARE.",
-              "grid_items_count": 8,
-              "button_text": "View all Beauty products"
-            }
-          }
-        },
-        "block_order": [
-          "collection_6NpdrW"
-        ],
-        "name": "Featured collections",
-        "settings": {
-          "title": "",
-          "layout_mode": "grid",
-          "show_product_info": true,
-          "show_color_swatch": false,
-          "grid_mobile_items_per_row": "2",
-          "grid_desktop_items_per_row": 4
-        }
       }
     },
     "content_for_index": [
       "slideshow",
       "featured_collections_MFKdQR",
-      "1595363175996",
+      "slideshow_KHM6xb",
       "featured_collections_qxRzBk"
     ]
   },
