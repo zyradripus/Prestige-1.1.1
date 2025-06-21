@@ -199,13 +199,13 @@
               "image": "shopify://shop_images/website-banner.webp",
               "mobile_image": "shopify://shop_images/website-video-banner.gif",
               "apply_overlay": true,
-              "content_position": "middleLeft",
+              "content_position": "bottomLeft",
               "subheading": "",
-              "title": "",
-              "button_1_text": "",
-              "button_1_link": "",
-              "button_2_text": "",
-              "button_2_link": ""
+              "title": "Discover the Latest Women’s Collection — Bold, Chic & Made for You",
+              "button_1_text": "Shop Baby Tees",
+              "button_1_link": "shopify://collections/baby-tees",
+              "button_2_text": "Women’s Bestsellers",
+              "button_2_link": "shopify://collections/womens-best-sellers"
             }
           },
           "image_YeFMxj": {
