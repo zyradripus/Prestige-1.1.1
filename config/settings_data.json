@@ -448,13 +448,24 @@
           "grid_mobile_items_per_row": "1",
           "grid_desktop_items_per_row": 4
         }
+      },
+      "custom_liquid_ctnwVC": {
+        "type": "custom-liquid",
+        "name": "t:sections.custom-liquid.presets.name",
+        "settings": {
+          "custom_liquid": "<footer style=\"border-top: 1px solid #000; font-family: 'Helvetica Neue', sans-serif;\">\n\n  <div style=\"background-color: #000; color: #fff; padding: 10px; text-align: center;\">\n    <span style=\"margin: 0 20px;\">5% OFF on first order with code: FIRST5</span>\n    <span style=\"margin: 0 20px;\">FREE Shipping on $55 or above!</span>\n  </div>\n\n  <div style=\"display: flex; flex-wrap: wrap; justify-content: space-between; padding: 30px; border-bottom: 1px solid #ccc;\">\n    <!-- Left Section -->\n    <div style=\"flex: 1 1 30%;\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0938/8104/1171/files/paypal-payments.avif?v=1750499356\" alt=\"Express Checkout\" style=\"max-width: 200px; margin-bottom: 10px;\">\n      <p style=\"line-height: 1.6;\">At Zyra Drip, we value creativity, individuality, and quality. We are committed to offering our customers unique clothing that expresses their personal style while ensuring top-notch craftsmanship. Explore our site to discover the latest in drip fashion and elevate your streetwear game.</p>\n    </div>\n\n    <!-- Middle Section -->\n    <div style=\"flex: 1 1 30%; padding-left: 40px;\">\n      <p><strong>Email:</strong> hello@zyradrip.com</p>\n      <p><strong>Tel:</strong> +61 469 371 368</p>\n    </div>\n\n    <!-- Right Section -->\n    <div style=\"flex: 1 1 30%;\">\n      <p><strong>Quick Links</strong></p>\n      <ul style=\"list-style: none; padding: 0; line-height: 1.8;\">\n        <li><a href=\"/pages/shipping-returns\" style=\"text-decoration: none; color: #000;\">Shipping & Returns</a></li>\n        <li><a href=\"/policies/refund-policy\" style=\"text-decoration: none; color: #000;\">Refund Policy</a></li>\n        <li><a href=\"/policies/terms-of-service\" style=\"text-decoration: none; color: #000;\">Terms & Conditions</a></li>\n        <li><a href=\"/pages/accessibility\" style=\"text-decoration: none; color: #000;\">Accessibility Statement</a></li>\n        <li><a href=\"/pages/faq\" style=\"text-decoration: none; color: #000;\">FAQ</a></li>\n      </ul>\n    </div>\n  </div>\n\n  <!-- Social Icons -->\n  <div style=\"display: flex; justify-content: center; gap: 40px; padding: 20px 0; border-bottom: 1px solid #ccc;\">\n    <a href=\"#\" target=\"_blank\"><img src=\"https://cdn.shopify.com/s/files/1/0938/8104/1171/files/pinterest.png?v=1750499835\" alt=\"Pinterest\" style=\"width: 28px;\"></a>\n    <a href=\"#\" target=\"_blank\"><img src=\"https://cdn.shopify.com/s/files/1/0938/8104/1171/files/instagram-icon.png?v=1750499835\" alt=\"Instagram\" style=\"width: 28px;\"></a>\n    <a href=\"mailto:hello@zyradrip.com\" target=\"_blank\"><img src=\"https://cdn.shopify.com/s/files/1/0938/8104/1171/files/email.png?v=1750499836\" alt=\"Email\" style=\"width: 28px;\"></a>\n  </div>\n\n  <!-- Newsletter Signup -->\n  <div style=\"padding: 30px; text-align: center;\">\n    <h3>SIGN UP FOR OUR NEWSLETTER</h3>\n    <form method=\"post\" action=\"/contact#contact_form\" id=\"contact_form\" accept-charset=\"UTF-8\" class=\"contact-form\">\n      <input type=\"hidden\" name=\"form_type\" value=\"customer\" />\n      <input type=\"hidden\" name=\"utf8\" value=\"✓\" />\n      <input type=\"email\" name=\"contact[email]\" placeholder=\"Your email *\" style=\"padding: 12px; width: 40%; max-width: 300px; margin: 10px 0; border: 1px solid #ccc; border-radius: 6px;\" required>\n      <br>\n      <label style=\"font-size: 14px;\"><input type=\"checkbox\" style=\"margin-right: 5px;\"> Yes, subscribe me to your newsletter.</label>\n      <br><br>\n      <button type=\"submit\" style=\"background-color: #e8771a; color: #fff; padding: 14px 40px; font-size: 18px; border: none; border-radius: 40px; cursor: pointer;\">Submit</button>\n    </form>\n  </div>\n\n</footer>",
+          "color_scheme": "",
+          "padding_top": 40,
+          "padding_bottom": 52
+        }
       }
     },
     "content_for_index": [
       "slideshow",
       "featured_collections_MFKdQR",
       "slideshow_KHM6xb",
-      "featured_collections_qxRzBk"
+      "featured_collections_qxRzBk",
+      "custom_liquid_ctnwVC"
     ]
   },
   "presets": {
