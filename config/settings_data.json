@@ -176,9 +176,9 @@
           "footer-0": {
             "type": "text",
             "settings": {
-              "title": "Our Misson",
-              "content": "<p><strong>Made To Help</strong></p>\n<p>Air Humidifier is not just gadget - it's way to live healthy.</p>\n<p></p>\n<p><strong>Recommended By 3 000+ Users</strong></p>\n<p>Our air humidifiers can be found in thousands of houses and people are in love with our work.</p>\n<p></p>\n<p><strong>Cruelty Free</strong></p>\n<p>We care our environment and our products haven't been tested on animals.</p>",
-              "show_social_media": false
+              "title": "",
+              "content": "<p>At Zyra Drip, we value creativity, individuality, and quality. We are <br/>committed to offering our customers unique clothing that expresses their<br/> personal style while ensuring top-notch craftsmanship. Explore our site<br/> to discover the latest in drip fashion and elevate your streetwear <br/>game.<br/><br/>Style that speaks, comfort that lasts. Trusted by over <strong>3,000+ happy customers</strong> across the US.</p><p><strong>Loved Nationwide</strong><br/><br/>Our pieces live in thousands of wardrobes — and our community keeps growing.</p><p><strong>Consciously Created</strong><br/><br/>We believe in clean fashion — no animal testing, ever. Style with purpose.</p>",
+              "show_social_media": true
             }
           }
         },
