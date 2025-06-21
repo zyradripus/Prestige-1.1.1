@@ -167,7 +167,7 @@
       "footer": {
         "type": "footer",
         "settings": {
-          "show_payment_methods": true
+          "show_payment_methods": false
         }
       },
       "slideshow": {
