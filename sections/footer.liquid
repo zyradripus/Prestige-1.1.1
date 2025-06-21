@@ -71,11 +71,47 @@
       </div>
     {%- endif -%}
 
+    <!-- 🔽 CUSTOM FOOTER CONTENT STARTS HERE -->
+    <div class="Footer__CustomContent" style="border-top: 1px solid #ccc; padding: 40px 0;">
+      <div class="Container" style="display: flex; flex-wrap: wrap; gap: 40px; justify-content: space-between;">
+
+        <!-- Left: Brand Statement + PayPal Icon -->
+        <div style="flex: 1 1 30%;">
+          <img src="https://cdn.shopify.com/s/files/1/0938/8104/1171/files/paypal-payments.avif?v=1750499356" alt="Express Checkout" style="max-width: 200px; margin-bottom: 10px;">
+          <p style="line-height: 1.6; font-size: 14px;">At Zyra Drip, we value creativity, individuality, and quality. We are committed to offering our customers unique clothing that expresses their personal style while ensuring top-notch craftsmanship. Explore our site to discover the latest in drip fashion and elevate your streetwear game.</p>
+        </div>
+
+        <!-- Middle: Contact Info -->
+        <div style="flex: 1 1 30%;">
+          <p style="margin-bottom: 10px;"><strong>Email:</strong> hello@zyradrip.com</p>
+          <p><strong>Tel:</strong> +61 469 371 368</p>
+        </div>
+
+        <!-- Right: Quick Links -->
+        <div style="flex: 1 1 30%;">
+          <p><strong>Quick Links</strong></p>
+          <ul style="list-style: none; padding: 0; font-size: 14px; line-height: 1.8;">
+            <li><a href="/pages/shipping-returns" class="Link Link--primary">Shipping & Returns</a></li>
+            <li><a href="/policies/refund-policy" class="Link Link--primary">Refund Policy</a></li>
+            <li><a href="/policies/terms-of-service" class="Link Link--primary">Terms & Conditions</a></li>
+            <li><a href="/pages/accessibility" class="Link Link--primary">Accessibility Statement</a></li>
+            <li><a href="/pages/faq" class="Link Link--primary">FAQ</a></li>
+          </ul>
+        </div>
+      </div>
+
+      <!-- Social Icons -->
+      <div style="margin-top: 30px; display: flex; justify-content: center; gap: 40px;">
+        <a href="#" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0938/8104/1171/files/pinterest.png?v=1750499835" alt="Pinterest" style="width: 28px;"></a>
+        <a href="#" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0938/8104/1171/files/instagram-icon.png?v=1750499835" alt="Instagram" style="width: 28px;"></a>
+        <a href="mailto:hello@zyradrip.com" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0938/8104/1171/files/email.png?v=1750499836" alt="Email" style="width: 28px;"></a>
+      </div>
+    </div>
+    <!-- 🔼 CUSTOM FOOTER CONTENT ENDS HERE -->
+
     <div class="Footer__Aside">
       <div class="Footer__Copyright">
         <a href="{{ shop.url }}" class="Footer__StoreName Heading u-h7 Link Link--secondary">© {{ shop.name }}</a>
-
-        {%- capture maestrooo_link -%}<a href="https://www.maestrooo.com" class="Link Link--primary" target="_blank" rel="noopener">Maestrooo</a>{%- endcapture -%}
       </div>
 
       {%- if section.settings.show_payment_methods -%}
@@ -189,7 +225,4 @@
     ]
   }
 }
-
-
-
 {% endschema %}
