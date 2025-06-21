@@ -52,7 +52,7 @@
     "product_list_vertical_spacing": "extra_small",
     "cart_type": "drawer",
     "cart_enable_notes": true,
-    "cart_show_free_shipping_threshold": false,
+    "cart_show_free_shipping_threshold": true,
     "cart_free_shipping_threshold": 50,
     "share_image": "shopify://shop_images/black_logo.jpg",
     "social_facebook": "",
@@ -166,9 +166,7 @@
       },
       "footer": {
         "type": "footer",
-        "settings": {
-          "show_payment_methods": false
-        }
+        "settings": {}
       },
       "slideshow": {
         "type": "slideshow",
