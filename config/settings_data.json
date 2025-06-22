@@ -452,6 +452,32 @@
           "grid_mobile_items_per_row": "2",
           "grid_desktop_items_per_row": 4
         }
+      },
+      "featured_collections_hzF4hx": {
+        "type": "featured-collections",
+        "blocks": {
+          "collection_jTVEtQ": {
+            "type": "collection",
+            "settings": {
+              "collection": "coffee",
+              "title": "WAKE. BREW. SLAY",
+              "grid_items_count": 8,
+              "button_text": ""
+            }
+          }
+        },
+        "block_order": [
+          "collection_jTVEtQ"
+        ],
+        "name": "Featured collections",
+        "settings": {
+          "title": "",
+          "layout_mode": "grid",
+          "show_product_info": true,
+          "show_color_swatch": false,
+          "grid_mobile_items_per_row": "2",
+          "grid_desktop_items_per_row": 4
+        }
       }
     },
     "content_for_index": [
@@ -459,7 +485,8 @@
       "featured_collections_MFKdQR",
       "slideshow_KHM6xb",
       "featured_collections_qxRzBk",
-      "featured_collections_YnfyLX"
+      "featured_collections_YnfyLX",
+      "featured_collections_hzF4hx"
     ]
   },
   "presets": {
