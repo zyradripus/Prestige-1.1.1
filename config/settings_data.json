@@ -298,7 +298,7 @@
           "inventory_quantity_threshold": 3,
           "show_payment_button": true,
           "image_size": "small",
-          "enable_image_zoom": true,
+          "enable_image_zoom": false,
           "show_thumbnails": true,
           "tab_page_1_handle": "faq",
           "tab_page_2_handle": "",
